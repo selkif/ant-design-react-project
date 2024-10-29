@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "ee82",
+      "name": "abebe",
+      "lastName": "tadese",
+      "email": "abebe@gmail.com",
+      "role": " backend Developer"
+    },
+    {
+      "id": "4b41",
+      "name": "M",
+      "lastName": "hele",
+      "email": "eyob@gmail.com",
+      "role": "senior developer"
+    },
+    {
+      "id": "3897",
+      "name": "eyob",
+      "lastName": "tekle",
+      "email": "eyob@gmail.com",
+      "role": " backend Developer"
+    }
+  ]
+}
